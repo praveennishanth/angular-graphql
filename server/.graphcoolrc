@@ -1,0 +1,3 @@
+targets:
+  nijucool: shared-us-west-2/cjdej6doo1mbl0111ljpcdclv
+  default: nijucool
